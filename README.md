@@ -1,1 +1,1 @@
-https://github.com/pauzhvak12-a11y/ono-tebe-nado.git
+https://github.com/pauzhvak12-a11y/ono-tebe-nado
